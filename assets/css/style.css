@@ -1018,7 +1018,7 @@ textarea.input-field {
  * responsive for larger than 992px screen
  */
 
-@media (min-width: 892px) {
+@media (min-width: 502px) {
 
   /**
    * CUSTOM PROPERTY
@@ -1046,7 +1046,7 @@ textarea.input-field {
    * REUSED STYLE
    */
 
-  .container { max-width: 880px; }
+  .container { max-width: 400px; }
 
   .section-content {
     position: relative;
@@ -1305,13 +1305,13 @@ textarea.input-field {
  * responsive for larger than 1200px screen
  */
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
 
   /**
    * REUSED STYLE
    */
 
-  .container { max-width: 980px; }
+  .container { max-width: 680px; }
 
   .section-title { max-width: 460px; }
 
@@ -1333,6 +1333,6 @@ textarea.input-field {
    * ABOUT
    */
 
-  .about-banner { max-width: 450px; }
+  .about-banner { max-width: 350px; }
 
 }
