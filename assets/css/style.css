@@ -1018,7 +1018,7 @@ textarea.input-field {
  * responsive for larger than 992px screen
  */
 
-@media (min-width: 992px) {
+@media (min-width: 892px) {
 
   /**
    * CUSTOM PROPERTY
@@ -1046,7 +1046,7 @@ textarea.input-field {
    * REUSED STYLE
    */
 
-  .container { max-width: 980px; }
+  .container { max-width: 880px; }
 
   .section-content {
     position: relative;
